@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rami CHLAGOU
 - 👀 I’m interested in the DevOps & Cloud approach 
-- 📫 How to reach me : chlagourami@outlook.fr
+- 📫 How to reach me : chlagourami@outlook.com
 
 <!---
 ramichlagou/ramichlagou is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
